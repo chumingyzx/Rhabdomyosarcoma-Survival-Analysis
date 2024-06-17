@@ -1,0 +1,81 @@
+Censor,Survival_months,Age,Sex,Year_of_diagnosis,PRCDA_2020,Race,Ethnicity,Site,Laterality,Diagnostic_Confirmation,Rad_Seq,Rural-Urban_Continuum_Code
+0,229,Adult,Male,Before 2013,PRCDA,White,Non-Spanish-Hispanic-Latino,Brain,Not a paired  site,Positive histology,No radiation and/or cancer-directed surgery,4
+1,46,PED,Female,Before 2013,PRCDA,Asian or Pacific Islander,Non-Spanish-Hispanic-Latino,Brain,Left - origin of primary,Positive histology,Radiation after surgery,4
+1,12,PED,Male,After 2013,PRCDA,White,Non-Spanish-Hispanic-Latino,Soft Tissue including Heart,Not a paired  site,Positive histology,Radiation after surgery,4
+0,29,Adult,Female,After 2013,PRCDA,White,Non-Spanish-Hispanic-Latino,Brain,Left - origin of primary,Positive histology,Radiation after surgery,4
+1,17,PED,Male,After 2013,PRCDA,White,Non-Spanish-Hispanic-Latino,Brain,Left - origin of primary,Positive histology,Radiation after surgery,4
+1,12,PED,Male,Before 2013,Not PRCDA,Asian or Pacific Islander,Non-Spanish-Hispanic-Latino,Brain,Not a paired  site,Positive histology,No radiation and/or cancer-directed surgery,4
+1,16,PED,Male,Before 2013,Not PRCDA,White,Non-Spanish-Hispanic-Latino,Brain,Not a paired  site,Positive histology,No radiation and/or cancer-directed surgery,3
+0,232,PED,Female,Before 2013,Not PRCDA,White,Non-Spanish-Hispanic-Latino,Eye and Orbit,Left - origin of primary,Positive histology,No radiation and/or cancer-directed surgery,1
+0,38,PED,Male,After 2013,Not PRCDA,White,Non-Spanish-Hispanic-Latino,Brain,Left - origin of primary,Positive histology,No radiation and/or cancer-directed surgery,2
+0,98,PED,Female,Before 2013,Not PRCDA,White,Spanish-Hispanic-Latino,Brain,Not a paired  site,Positive histology,Radiation after surgery,3
+0,55,Adult,Female,After 2013,PRCDA,Asian or Pacific Islander,Non-Spanish-Hispanic-Latino,Brain,Left - origin of primary,Positive histology,Radiation after surgery,5
+0,225,PED,Female,Before 2013,Not PRCDA,White,Non-Spanish-Hispanic-Latino,Eye and Orbit,Left - origin of primary,Positive histology,No radiation and/or cancer-directed surgery,3
+0,89,PED,Female,After 2013,PRCDA,White,Non-Spanish-Hispanic-Latino,Eye and Orbit,Left - origin of primary,Radiography without microscopic confirm,No radiation and/or cancer-directed surgery,5
+0,9,PED,Male,After 2013,PRCDA,White,Spanish-Hispanic-Latino,Eye and Orbit,Right - origin of primary,Positive histology,No radiation and/or cancer-directed surgery,5
+0,18,PED,Female,After 2013,PRCDA,White,Non-Spanish-Hispanic-Latino,Eye and Orbit,Left - origin of primary,Radiography without microscopic confirm,No radiation and/or cancer-directed surgery,1
+0,40,PED,Female,After 2013,PRCDA,White,Non-Spanish-Hispanic-Latino,Eye and Orbit,Left - origin of primary,Radiography without microscopic confirm,No radiation and/or cancer-directed surgery,5
+0,238,PED,Male,Before 2013,Not PRCDA,White,Spanish-Hispanic-Latino,Soft Tissue including Heart,Right - origin of primary,Positive histology,No radiation and/or cancer-directed surgery,5
+0,89,PED,Male,After 2013,Not PRCDA,White,Non-Spanish-Hispanic-Latino,Cranial Nerves Other Nervous System,Not a paired  site,Positive histology,No radiation and/or cancer-directed surgery,5
+0,68,Adult,Female,After 2013,Not PRCDA,Black,Non-Spanish-Hispanic-Latino,Brain,Left - origin of primary,Positive histology,No radiation and/or cancer-directed surgery,5
+0,40,PED,Female,After 2013,Not PRCDA,White,Non-Spanish-Hispanic-Latino,Brain,Right - origin of primary,Positive histology,Radiation after surgery,5
+0,19,PED,Male,After 2013,Not PRCDA,White,Spanish-Hispanic-Latino,Soft Tissue including Heart,Not a paired  site,Positive histology,No radiation and/or cancer-directed surgery,5
+0,149,PED,Female,Before 2013,Not PRCDA,White,Spanish-Hispanic-Latino,Eye and Orbit,Left - origin of primary,Positive histology,No radiation and/or cancer-directed surgery,5
+1,5,Adult,Female,After 2013,Not PRCDA,White,Spanish-Hispanic-Latino,Brain,Not a paired  site,Positive histology,No radiation and/or cancer-directed surgery,5
+0,249,PED,Male,Before 2013,Not PRCDA,Black,Non-Spanish-Hispanic-Latino,Brain,Not a paired  site,Positive histology,No radiation and/or cancer-directed surgery,5
+0,246,Adult,Female,Before 2013,Not PRCDA,Asian or Pacific Islander,Non-Spanish-Hispanic-Latino,Brain,Not a paired  site,Positive histology,No radiation and/or cancer-directed surgery,5
+0,211,PED,Female,Before 2013,Not PRCDA,White,Spanish-Hispanic-Latino,Cranial Nerves Other Nervous System,Left - origin of primary,Positive histology,Radiation after surgery,5
+0,32,PED,Female,After 2013,Not PRCDA,White,Non-Spanish-Hispanic-Latino,Eye and Orbit,Right - origin of primary,Positive histology,No radiation and/or cancer-directed surgery,5
+0,35,Adult,Female,After 2013,Not PRCDA,White,Non-Spanish-Hispanic-Latino,Brain,Left - origin of primary,Positive histology,No radiation and/or cancer-directed surgery,5
+1,10,Adult,Female,After 2013,Not PRCDA,Black,Non-Spanish-Hispanic-Latino,Brain,Right - origin of primary,Positive histology,Radiation after surgery,5
+0,244,PED,Male,Before 2013,PRCDA,White,Spanish-Hispanic-Latino,Brain,Not a paired  site,Positive histology,No radiation and/or cancer-directed surgery,4
+1,13,PED,Female,Before 2013,PRCDA,White,Spanish-Hispanic-Latino,Soft Tissue including Heart,Not a paired  site,Positive histology,No radiation and/or cancer-directed surgery,5
+1,1,PED,Female,Before 2013,PRCDA,White,Non-Spanish-Hispanic-Latino,Brain,Not a paired  site,Positive histology,No radiation and/or cancer-directed surgery,5
+0,151,PED,Male,Before 2013,PRCDA,White,Non-Spanish-Hispanic-Latino,Brain,Not a paired  site,Positive histology,No radiation and/or cancer-directed surgery,5
+0,141,PED,Male,Before 2013,Not PRCDA,White,Spanish-Hispanic-Latino,Eye and Orbit,Left - origin of primary,Positive histology,No radiation and/or cancer-directed surgery,4
+0,135,PED,Male,Before 2013,Not PRCDA,White,Spanish-Hispanic-Latino,Eye and Orbit,Right - origin of primary,Positive histology,No radiation and/or cancer-directed surgery,4
+0,25,PED,Male,Before 2013,PRCDA,White,Spanish-Hispanic-Latino,Eye and Orbit,Left - origin of primary,Radiography without microscopic confirm,No radiation and/or cancer-directed surgery,5
+1,7,PED,Male,After 2013,PRCDA,White,Spanish-Hispanic-Latino,Brain,Not a paired  site,Positive histology,No radiation and/or cancer-directed surgery,5
+0,75,Adult,Female,After 2013,PRCDA,White,Non-Spanish-Hispanic-Latino,Brain,Right - origin of primary,Positive histology,No radiation and/or cancer-directed surgery,5
+0,54,PED,Female,After 2013,PRCDA,White,Spanish-Hispanic-Latino,Brain,Right - origin of primary,Positive histology,No radiation and/or cancer-directed surgery,5
+0,35,PED,Female,After 2013,PRCDA,White,Spanish-Hispanic-Latino,Brain,Right - origin of primary,Positive histology,No radiation and/or cancer-directed surgery,4
+0,38,PED,Female,After 2013,PRCDA,Black,Non-Spanish-Hispanic-Latino,Brain,Left - origin of primary,Positive histology,No radiation and/or cancer-directed surgery,5
+1,6,Adult,Female,After 2013,PRCDA,White,Spanish-Hispanic-Latino,Brain,Not a paired  site,Positive histology,No radiation and/or cancer-directed surgery,4
+0,19,PED,Male,After 2013,PRCDA,White,Non-Spanish-Hispanic-Latino,Brain,Left - origin of primary,Positive histology,No radiation and/or cancer-directed surgery,5
+0,7,PED,Male,After 2013,PRCDA,White,Spanish-Hispanic-Latino,Brain,Right - origin of primary,Positive histology,No radiation and/or cancer-directed surgery,4
+0,4,PED,Male,After 2013,PRCDA,White,Spanish-Hispanic-Latino,Brain,Left - origin of primary,Positive histology,No radiation and/or cancer-directed surgery,5
+0,22,PED,Female,After 2013,PRCDA,White,Spanish-Hispanic-Latino,Brain,Not a paired  site,Positive histology,No radiation and/or cancer-directed surgery,4
+0,2,Adult,Female,After 2013,PRCDA,White,Spanish-Hispanic-Latino,Brain,Left - origin of primary,Positive histology,No radiation and/or cancer-directed surgery,5
+0,1,Adult,Female,After 2013,PRCDA,White,Non-Spanish-Hispanic-Latino,Brain,Right - origin of primary,Positive histology,Radiation after surgery,5
+0,86,PED,Male,After 2013,Not PRCDA,Black,Non-Spanish-Hispanic-Latino,Brain,Right - origin of primary,Positive histology,No radiation and/or cancer-directed surgery,5
+0,110,PED,Female,Before 2013,Not PRCDA,White,Non-Spanish-Hispanic-Latino,Brain,Left - origin of primary,Radiography without microscopic confirm,No radiation and/or cancer-directed surgery,5
+0,1,PED,Male,After 2013,Not PRCDA,White,Non-Spanish-Hispanic-Latino,Brain,Right - origin of primary,Positive histology,No radiation and/or cancer-directed surgery,2
+1,54,PED,Male,Before 2013,Not PRCDA,Black,Non-Spanish-Hispanic-Latino,Miscellaneous,Not a paired  site,Positive histology,No radiation and/or cancer-directed surgery,5
+0,187,PED,Female,Before 2013,Not PRCDA,Black,Non-Spanish-Hispanic-Latino,Cranial Nerves Other Nervous System,Left - origin of primary,Positive histology,No radiation and/or cancer-directed surgery,2
+0,86,PED,Female,After 2013,Not PRCDA,White,Non-Spanish-Hispanic-Latino,Eye and Orbit,Right - origin of primary,Positive histology,No radiation and/or cancer-directed surgery,2
+1,235,PED,Female,Before 2013,Not PRCDA,White,Non-Spanish-Hispanic-Latino,Brain,Right - origin of primary,Positive histology,No radiation and/or cancer-directed surgery,4
+1,1,Adult,Female,Before 2013,Not PRCDA,White,Non-Spanish-Hispanic-Latino,Brain,Not a paired  site,Positive histology,No radiation and/or cancer-directed surgery,2
+0,134,PED,Male,Before 2013,Not PRCDA,Black,Non-Spanish-Hispanic-Latino,Brain,Not a paired  site,Positive histology,Radiation after surgery,4
+0,18,PED,Male,After 2013,Not PRCDA,White,Non-Spanish-Hispanic-Latino,Eye and Orbit,Left - origin of primary,Radiography without microscopic confirm,No radiation and/or cancer-directed surgery,3
+1,38,PED,Male,After 2013,Not PRCDA,Black,Non-Spanish-Hispanic-Latino,Brain,Right - origin of primary,Positive histology,Radiation after surgery,2
+0,31,PED,Female,After 2013,Not PRCDA,White,Non-Spanish-Hispanic-Latino,Brain,Left - origin of primary,Positive histology,Radiation after surgery,5
+0,242,Adult,Female,Before 2013,Not PRCDA,White,Non-Spanish-Hispanic-Latino,Brain,Not a paired  site,Positive histology,No radiation and/or cancer-directed surgery,5
+0,195,PED,Male,Before 2013,Not PRCDA,White,Spanish-Hispanic-Latino,Brain,Not a paired  site,Positive histology,No radiation and/or cancer-directed surgery,5
+1,1,PED,Male,Before 2013,Not PRCDA,White,Non-Spanish-Hispanic-Latino,Brain,Not a paired  site,Positive histology,No radiation and/or cancer-directed surgery,4
+0,147,PED,Female,Before 2013,Not PRCDA,White,Spanish-Hispanic-Latino,Brain,Right - origin of primary,Positive histology,No radiation and/or cancer-directed surgery,5
+0,149,PED,Female,Before 2013,Not PRCDA,White,Non-Spanish-Hispanic-Latino,Brain,Left - origin of primary,Positive histology,No radiation and/or cancer-directed surgery,5
+1,35,Adult,Male,Before 2013,Not PRCDA,White,Spanish-Hispanic-Latino,Brain,Not a paired  site,Positive histology,Radiation after surgery,4
+0,167,PED,Female,Before 2013,Not PRCDA,White,Non-Spanish-Hispanic-Latino,Eye and Orbit,Left - origin of primary,Positive histology,No radiation and/or cancer-directed surgery,5
+1,0,Adult,Female,After 2013,Not PRCDA,White,Non-Spanish-Hispanic-Latino,Cranial Nerves Other Nervous System,Not a paired  site,Positive histology,No radiation and/or cancer-directed surgery,5
+0,84,PED,Female,After 2013,Not PRCDA,White,Spanish-Hispanic-Latino,Brain,Only one side - side unspecified,Positive histology,No radiation and/or cancer-directed surgery,5
+1,18,PED,Male,After 2013,Not PRCDA,Black,Spanish-Hispanic-Latino,Cranial Nerves Other Nervous System,Not a paired  site,Positive histology,Radiation after surgery,3
+0,22,PED,Male,After 2013,Not PRCDA,White,Non-Spanish-Hispanic-Latino,Brain,Right - origin of primary,Positive histology,No radiation and/or cancer-directed surgery,5
+0,249,PED,Male,Before 2013,Not PRCDA,White,Non-Spanish-Hispanic-Latino,Brain,Not a paired  site,Positive histology,No radiation and/or cancer-directed surgery,5
+0,198,PED,Male,Before 2013,Not PRCDA,White,Non-Spanish-Hispanic-Latino,Cranial Nerves Other Nervous System,Not a paired  site,Positive histology,No radiation and/or cancer-directed surgery,5
+0,100,PED,Female,Before 2013,Not PRCDA,Black,Non-Spanish-Hispanic-Latino,Eye and Orbit,Right - origin of primary,Positive histology,No radiation and/or cancer-directed surgery,5
+0,101,PED,Female,Before 2013,Not PRCDA,White,Non-Spanish-Hispanic-Latino,Cranial Nerves Other Nervous System,Not a paired  site,Positive histology,No radiation and/or cancer-directed surgery,3
+1,10,PED,Female,After 2013,Not PRCDA,White,Non-Spanish-Hispanic-Latino,Brain,Right - origin of primary,Positive histology,No radiation and/or cancer-directed surgery,4
+0,70,PED,Female,After 2013,Not PRCDA,White,Spanish-Hispanic-Latino,Brain,Left - origin of primary,Positive histology,Radiation after surgery,4
+0,66,PED,Female,After 2013,Not PRCDA,White,Non-Spanish-Hispanic-Latino,Eye and Orbit,Right - origin of primary,Positive histology,No radiation and/or cancer-directed surgery,3
+0,36,PED,Female,After 2013,Not PRCDA,Black,Non-Spanish-Hispanic-Latino,Brain,Left - origin of primary,Positive histology,No radiation and/or cancer-directed surgery,4
+1,13,PED,Male,After 2013,Not PRCDA,White,Non-Spanish-Hispanic-Latino,Cranial Nerves Other Nervous System,Not a paired  site,Positive histology,Radiation after surgery,5
